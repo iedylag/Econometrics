@@ -1,8 +1,47 @@
-data <- read.csv("C:/Users/Happy/Documents/GitHub/Econometrics/output.csv")
+data <- read.csv("Zeszyt1.csv")
 head(data)
 summary(data)
 str(data)
 
-model <- lm(rank ~ year + total + gold_medals + silver_medals + bronze_medals + honourable_mentions, data=data)
+
+model <- lm(ranking.22 ~ pop2023 + growthRate + landAreaKm
+                        + Education.Foreignborn + Education.Nativeborn
+                        + Migration + HDI + Mean_years_of_schooling + GNI
+                        + Happiness2021 + Happiness2020, data = data)
 summary(model)
-plot(data$year, data$rank, main="Year vs. Rank", xlab="Year", ylab="Rank")
+
+#wykres reszt standardowych vs wartości przewidywane
+plot(fitted(model), rstandard(model), main = "Residuals vs Fitted", 
+     xlab = "Fitted values", ylab = "Standardized residuals")
+abline(h = 0, col = "red")
+
+#histogram reszt standardowych
+hist(rstandard(model), main = "Histogram of Standardized Residuals", 
+     xlab = "Standardized residuals", ylab = "Frequency")
+
+plot(data$pop2023, data$ranking.22, main = "Ranking vs Population in 2023",
+     xlab = "Population in 2023", ylab = "Ranking")
+abline(model$coefficients[1], model$coefficients[2], col = "red")
+
+plot(data$Happiness2021, data$ranking.22, main = "Ranking vs Happiness in 2021",
+     xlab = "Happiness in 2021", ylab = "Ranking")
+abline(lm(data$ranking.22 ~ data$Happiness2021), col = "red")
+
+plot(data$Happiness2020, data$ranking.22, main = "Rank 2021 vs. Happiness 2021",
+     xlab = "Ranking", ylab = "Happiness in 2020")
+abline(lm(data$ranking.21 ~ data$Happiness2020), col = "red")
+
+
+
+model22 <- lm(ranking.22 ~ Happiness2021 + Happiness2020, data = data)
+summary(model22)
+model21 <- lm(ranking.21 ~ Happiness2021 + Happiness2020, data = data)
+summary(model21)
+model20 <- lm(ranking.20 ~ Happiness2021 + Happiness2020, data = data)
+summary(model20)
+
+model2 <- lm(ranking.22 ~ pop2023 + growthRate + landAreaKm
+                        + Education.Foreignborn + Education.Nativeborn
+                        + Migration + HDI + Mean_years_of_schooling + GNI, data = data)
+summary(model2)
+
