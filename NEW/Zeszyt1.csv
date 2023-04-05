@@ -1,13 +1,10 @@
 ﻿pop2023,growthRate,country,cca3,region,subregion,landAreaKm,ranking.22,ranking.21,ranking.20,Education.Foreignborn,Education.Nativeborn,Migration.1,HDI.HDI,HDI.Mean_years_of_schooling,HDI.GNI,Happiness.Happiness2021,Happiness.Happiness2020,Happiness.ScoreChange
-16665409,0.02113,Zimbabwe,ZWE,Africa,Eastern Africa-Sub-Saharan Africa,386850,,,,,,,,,,3.145,3.299,-0.154
-20569737,0.02758,Zambia,ZMB,Africa,Eastern Africa-Sub-Saharan Africa,743390,,,,,,,,,,4.073,3.759,0.314
-34449825,0.02235,Yemen,YEM,Asia,Western Asia-The Middle East,527970,,,,,,,,,,3.658,3.527,0.131
 98858950,0.00685,Vietnam,VNM,Asia,South-Eastern Asia,313429,4,14,17,,,,,,,5.411,5.353,0.058
 28838499,0.01897,Venezuela,VEN,South America,South America-Latin America,882050,104,83,83,,,,,,,4.892,5.053,-0.161
 35163944,0.01549,Uzbekistan,UZB,Asia,Central Asia-South Central Asia,440650,50,61,69,,,,,,,6.179,6.258,-0.079
 3423108,0.00009,Uruguay,URY,South America,South America-Latin America,175020,89,88,80,,,,0.809,9.0,21269,6.431,6.44,-0.009
 339996563,0.00505,UnitedStates,USA,North America,Northern America,9147420,3,4,3,79.2,83.9,707362,0.921,13.7,64765,,,
-67736802,0.00338,UnitedKingdom,GBR,Europe,Northern Europe,241930,,,,83.1,87.6,,0.929,13.4,45225,,,
+67736802,0.00338,UnitedKingdom,GBR,Europe,Northern Europe,241930,13,9,9,83.1,87.6,,0.929,13.4,45225,,,
 9516871,0.00802,UnitedArabEmirates,ARE,Asia,Western Asia-The Middle East,71020,,,,,,,0.911,12.7,62574,,,
 36744634,-0.07448,Ukraine,UKR,Europe,Eastern Europe,579400,17,6,11,,,,0.773,11.1,13256,4.875,4.561,0.314
 48582334,0.02821,Uganda,UGA,Africa,Eastern Africa-Sub-Saharan Africa,200520,100,101,87,,,,,,,4.636,4.432,0.204
