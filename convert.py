@@ -2,11 +2,11 @@ import xml.etree.ElementTree as ET
 import csv
 
 # Parse the XML file
-tree = ET.parse('Team_CHN.xml')
+tree = ET.parse('Team_USA.xml')
 root = tree.getroot()
 
 # Extract data and write to CSV
-with open('output.csv', 'w', newline='') as csvfile:
+with open('outputUSA.csv', 'w', newline='') as csvfile:
     writer = csv.writer(csvfile)
     # Write header row
     writer.writerow(['year', 'team_size', 'problem1', 'problem2', 'problem3', 'problem4', 'problem5', 'problem6', 'total', 'rank', 'gold_medals', 'silver_medals', 'bronze_medals', 'honourable_mentions'])
