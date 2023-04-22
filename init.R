@@ -19,7 +19,7 @@ abline(h = 0, col = "red")
 hist(rstandard(model), main = "Histogram of Standardized Residuals", 
      xlab = "Standardized residuals", ylab = "Frequency")
 
-plot(data$pop2023, data$ranking.22, main = "Ranking vs Population in 2023",
+plot(log(data$pop2023), data$ranking.22, main = "Ranking vs Population in 2023",
      xlab = "Population in 2023", ylab = "Ranking")
 abline(model$coefficients[1], model$coefficients[2], col = "red")
 
@@ -27,7 +27,7 @@ plot(data$Happiness2021, data$ranking.22, main = "Ranking vs Happiness in 2021",
      xlab = "Happiness in 2021", ylab = "Ranking")
 abline(lm(data$ranking.22 ~ data$Happiness2021), col = "red")
 
-plot(data$Happiness2020, data$ranking.22, main = "Rank 2021 vs. Happiness 2021",
+plot(data$Happiness2020, data$ranking.22, main = "Rank 2021 vs. Happiness 2020",
      xlab = "Ranking", ylab = "Happiness in 2020")
 abline(lm(data$ranking.21 ~ data$Happiness2020), col = "red")
 
@@ -45,3 +45,8 @@ model2 <- lm(ranking.22 ~ pop2023 + growthRate + landAreaKm
                         + Migration + HDI + Mean_years_of_schooling + GNI, data = data)
 summary(model2)
 
+subset(data, country == "Poland")
+subset(data, country == "Poland", select = c(region, ranking.22))
+subset(data, ranking.22 <= 10, select = c(country, ranking.22))
+
+data[order(data$region, data$ranking.22), ]
