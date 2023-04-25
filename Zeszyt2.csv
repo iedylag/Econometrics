@@ -1,104 +1,104 @@
-﻿pop2023,growthRate,country,cca3,region,subregion,landAreaKm,ranking.22,ranking.21,ranking.20,Education.Foreignborn,Education.Nativeborn,Migration,HDI,Mean_years_of_schooling,GNI,Happiness2021,Happiness2020,Happiness.ScoreChange,Tertiary,UpperSecondary,BelowUpperSecondary,numbeoQoL
-98858950,0.00685,Vietnam,VNM,Asia,South-Eastern Asia,313429,4,14,17,,,,,,,5.411,5.353,0.058,,,,88.9
-8796669,0.00643,Switzerland,CHE,Europe,Western Europe,39516,40,48,49,84.3,92.3,136962,0.962,13.9,66933,7.571,7.56,0.011,45.3,44,10.7,188.36
-28838499,0.01897,Venezuela,VEN,South America,South America-Latin America,882050,104,83,83,,,,,,,4.892,5.053,-0.161,,,,
-5910913,0.00487,Denmark,DNK,Europe,Northern Europe,40000,53,67,53,80.1,88.8,37810,0.948,13.0,60365,7.62,7.646,-0.026,39.3,42,18.6,186.25
-144444359,-0.00186,Russia,RUS,Europe,Eastern Europe,16376870,,2,2,,,,0.822,12.8,27166,5.477,5.546,-0.069,56.7,38.5,4.8,97.91
-17618299,0.00309,Netherlands,NLD,Europe,Western Europe,33670,40,47,29,78.8,90.9,170612,0.941,12.6,55979,7.464,7.449,0.015,42.6,38.4,19,180.27
-35163944,0.01549,Uzbekistan,UZB,Asia,Central Asia-South Central Asia,440650,50,61,69,,,,,,,6.179,6.258,-0.079,,,,
-5545475,0.00085,Finland,FIN,Europe,Northern Europe,303940,62,69,60,76.1,86.8,23260,0.940,12.9,49452,7.842,7.809,0.033,47.9,43.3,8.8,178.95
-3423108,0.00009,Uruguay,URY,South America,South America-Latin America,175020,89,88,80,,,,0.809,9.0,21269,6.431,6.44,-0.009,,,,122.42
-26439111,0.01,Australia,AUS,Oceania,Australia and New Zealand,7692020,29,18,8,,,137465,0.951,12.7,49238,7.183,7.223,-0.040,49.3,34.4,16.2,178.41
-339996563,0.00505,United States,USA,North America,Northern America,9147420,3,4,3,79.2,83.9,707362,0.921,13.7,64765,6.951,6.94,0.011,50.1,41.7,8.3,163.6
-375318,0.00649,Iceland,ISL,Europe,Northern Europe,100830,83,94,92,89.8,91.9,7711,0.959,13.8,55782,7.554,7.504,0.050,40.6,35.3,24.1,177.64
-51784059,-0.00061,South Korea,KOR,Asia,Eastern Asia,97600,2,3,4,,,233133,0.925,12.5,44501,5.845,5.872,-0.027,50.7,38.6,10.6,124.73
-8958960,0.00216,Austria,AUT,Europe,Western Europe,82520,56,64,65,78.1,89,121311,0.916,12.3,53619,7.268,7.294,-0.026,34.2,51.5,14.3,176.36
-67736802,0.00338,United Kingdom,GBR,Europe,Northern Europe,241930,13,9,9,83.1,87.6,,0.929,13.4,45225,7.064,7.165,-0.101,49.4,32.3,18.3,156.94
-83294633,-0.0009,Germany,DEU,Europe,Western Europe,349390,7,12,26,80,91.4,994819,0.942,14.1,54534,7.155,7.076,0.079,31.3,54.9,13.9,175.24
-36744634,-0.07448,Ukraine,UKR,Europe,Eastern Europe,579400,17,6,11,,,,0.773,11.1,13256,4.875,4.561,0.314,,,,107.8
-5228100,0.00826,New Zealand,NZL,Oceania,Australia and New Zealand,263310,58,69,47,,,53716,0.937,12.9,44057,7.277,7.3,-0.023,40.1,40.8,19.1,173.6
-48582334,0.02821,Uganda,UGA,Africa,Eastern Africa-Sub-Saharan Africa,200520,100,101,87,,,,,,,4.636,4.432,0.204,,,,
-654768,0.01107,Luxembourg,LUX,Europe,Western Europe,2574.5,93,98,103,84.7,87.7,20970,0.930,13.0,84649,7.324,7.238,0.086,51.3,22.8,25.8,171.81
-5474360,0.00737,Norway,NOR,Europe,Northern Europe,364285,61,51,58,84.2,90.9,30818,0.961,13.0,64660,7.392,7.488,-0.096,45.3,37.2,17.5,171.72
-85816199,0.00557,Turkey,TUR,Asia,Western Asia-The Middle East,783562,26,35,26,,,,0.838,8.6,31033,4.948,5.132,-0.184,22,19.7,58.3,124.19
-1322765,-0.00249,Estonia,EST,Europe,Northern Europe,42750,50,50,57,81.2,87.5,10309,0.890,13.5,38048,6.189,6.022,0.167,42.2,48.4,9.3,171.16
-10612086,0.00595,Sweden,SWE,Europe,Northern Europe,407283.5,60,57,40,81.2,93.3,65789,0.947,12.6,54489,7.363,7.353,0.010,44.6,39.3,16.1,170.19
-71801279,0.00145,Thailand,THA,Asia,South-Eastern Asia,510890,6,16,5,,,,0.800,8.7,17030,5.985,5.999,-0.014,,,,100.3
-2119675,-0.00008,Slovenia,SVN,Europe,Southern Europe,20136.4,72,64,40,82.3,90.8,24750,0.918,12.8,39746,6.461,6.363,0.098,35.9,54.4,9.8,165.74
-67438106,0.02963,Tanzania,TZA,Africa,Eastern Africa-Sub-Saharan Africa,885800,,,98,,,,,,,3.623,3.476,0.147,,,,
-123294513,-0.0053,Japan,JPN,Asia,Eastern Asia,364500,8,25,18,,,220612,0.925,13.4,42274,5.94,5.871,0.069,52.7,,,164.06
-47519628,-0.00082,Spain,ESP,Europe,Southern Europe,499556.6,42,63,31,70.8,83.1,415150,0.905,10.6,38354,6.491,6.401,0.090,39.7,23.2,37.1,163.48
-2718352,-0.01153,Lithuania,LTU,Europe,Northern Europe,62620,48,76,54,83.7,91.6,,0.875,13.5,37931,6.255,6.215,0.040,44.1,49.5,6.4,160.29
-10247605,-0.00227,Portugal,PRT,Europe,Southern Europe,91605.6,44,54,44,82.4,89.6,118124,0.866,9.6,33155,5.929,5.911,0.018,28.2,27.2,44.6,159.83
-38781291,0.0085,Canada,CAN,North America,Northern America,8965590,14,5,12,,,184585,0.936,13.8,46808,7.103,7.232,-0.129,60,32.5,7.6,157.25
-4008617,-0.00539,Croatia,HRV,Europe,Southern Europe,55960,34,21,32,,,,0.858,12.2,30132,5.882,5.505,0.377,,,,155.41
-60414495,0.00869,South Africa,ZAF,Africa,Southern Africa-Sub-Saharan Africa,1213090,63,60,61,,,,,,,4.956,4.814,0.142,15.8,31.8,52.3,131.37
-64756584,0.00201,France,FRA,Europe,Western Europe,547557,32,27,14,73.2,87.8,200495,0.903,11.6,45937,6.69,6.664,0.026,39.7,41.8,18.5,153.6
-5795199,0.02689,Slovakia,SVK,Europe,Eastern Europe,49035,46,39,40,81,83.9,2834,0.848,12.9,30690,6.331,6.281,0.050,26.8,65.7,7.5,147.09
-5056935,0.00673,Ireland,IRL,Europe,Northern Europe,68890,69,93,70,81.6,87.3,56500,0.945,11.6,76169,7.085,7.129,-0.044,49.9,35.5,14.5,150.54
-6014723,0.00653,Singapore,SGP,Asia,South-Eastern Asia,718,24,15,16,,,,0.939,11.9,90919,6.377,6.377,0.000,,,,146.48
-11686140,0.00259,Belgium,BEL,Europe,Western Europe,30280,63,43,50,75.7,89.2,101553,0.937,12.4,52293,6.834,6.864,-0.030,42.4,37.3,20.2,148.18
-7149077,-0.01001,Serbia,SRB,Europe,Southern Europe,87460,37,31,25,,,,0.802,11.4,19123,6.078,5.778,0.300,,,,117
-36947025,0.01478,Saudi Arabia,SAU,Asia,Western Asia-The Middle East,2149690,22,38,59,,,,0.875,11.3,46112,6.494,6.406,0.088,23.6,32.9,43.5,144.69
-1830211,-0.01105,Latvia,LVA,Europe,Northern Europe,62230,63,48,67,81,89.9,4560,0.863,13.3,32803,6.032,5.95,0.082,37.8,51.6,10.5,146.8
-19892812,0.01188,Romania,ROU,Europe,Eastern Europe,230080,5,27,15,,,,0.821,11.3,30027,6.14,6.124,0.016,,,,130.86
-1260138,0.00691,Cyprus,CYP,Europe,Eastern Europe-The Middle East,9240,67,77,80,,,,0.896,12.4,38188,6.223,6.159,0.064,,,,146.08
-41026067,0.02933,Poland,POL,Europe,Eastern Europe,306130,12,13,6,81.1,89,163512,0.876,13.2,33034,6.166,6.186,-0.020,32.4,60.4,6.8,127.79
-9174520,0.01507,Israel,ISR,Asia,Western Asia-The Middle East,21640,10,7,21,85.5,88.5,19676,0.919,13.3,41524,7.157,7.129,0.028,50.1,37.9,12,143.65
-117337368,0.01539,Philippines,PHL,Asia,South-Eastern Asia,298170,53,23,43,,,,,,,5.88,6.006,-0.126,,,,78.12
-58870762,-0.00282,Italy,ITA,Europe,Southern Europe,295717,10,7,6,70.2,82.7,191766,0.895,10.7,42840,6.483,6.387,0.096,20.1,42.7,37.1,137.77
-34352719,0.0089,Peru,PER,South America,South America-Latin America,1280000,19,30,36,,,,,,,5.84,5.797,0.043,,,,81.29
-10156239,0.01896,Hungary,HUN,Europe,Eastern Europe,91260,32,32,13,87.2,85.7,43785,0.846,12.2,32789,5.992,6,-0.008,27.2,58.4,14.4,134.54
-4468087,0.0135,Panama,PAN,North America,Central America-Latin America,74180,84,72,84,,,,0.805,10.5,26957,6.18,6.305,-0.125,,,,111.13
-240485658,0.01976,Pakistan,PAK,Asia,Southern Asia-South Central Asia,770880,82,103,82,,,,,,,4.934,5.693,-0.759,,,,102.15
-2085679,-0.00378,North Macedonia,MKD,Europe,Southern Europe,25220,39,45,72,,,,0.770,10.2,15918,5.101,5.16,-0.059,,,,108.25
-223804632,0.02408,Nigeria,NGA,Africa,Western Africa-Sub-Saharan Africa,910770,,100,86,,,,,,,4.759,4.724,0.035,,,,54.71
-6687717,-0.0139,Bulgaria,BGR,Europe,Eastern Europe,108560,16,18,38,,,,0.795,11.4,23079,5.266,5.102,0.164,,,,126.88
-30896590,0.01143,Nepal,NPL,Asia,Southern Asia-South Central Asia,143350,89,91,102,,,,,,,5.269,5.137,0.132,,,,
-54577997,0.00736,Myanmar,MMR,Asia,South-Eastern Asia,652670,,,91,,,,,,,4.426,4.308,0.118,,,,
-37840044,0.0102,Morocco,MAR,Africa,Northern Africa,446300,70,75,90,,,,,,,4.918,5.095,-0.177,,,,105.04
-5212173,0.00605,Costa Rica,CRI,North America,Central America-Latin America,51060,66,84,88,,,,0.809,8.8,19974,7.069,7.121,-0.052,25.1,17.6,57.3,120.42
-128455567,0.00746,Mexico,MEX,North America,Central America-Latin America,1943950,23,34,45,71.3,79.8,58430,,,,6.317,6.465,-0.148,19.4,22.2,58.4,119.82
-3728282,-0.0043,Georgia,GEO,Asia,Western Asia,69490,53,41,18,,,,0.802,12.8,14664,4.891,4.673,0.218,,,,116.62
-18190484,0.01053,Ecuador,ECU,South America,South America-Latin America,248360,89,73,64,,,,,,,5.764,5.925,-0.161,,,,116.27
-34308525,0.01091,Malaysia,MYS,Asia,South-Eastern Asia,328550,44,41,32,,,,0.803,10.6,26658,5.384,5.384,0.000,,,,115.02
-55100586,0.01986,Kenya,KEN,Africa,Eastern Africa-Sub-Saharan Africa,569140,,103,104,,,,,,,4.607,4.583,0.024,,,,76.92
-9498238,-0.00385,Belarus,BLR,Europe,Eastern Europe,202980,31,24,45,,,,0.808,12.1,18849,5.534,5.54,-0.006,,,,107.15
-19606633,0.01076,Kazakhstan,KAZ,Asia,Central Asia,2699700,17,20,21,,,,0.811,12.3,23943,6.152,6.058,0.094,,,,94.25
-216422446,0.00515,Brazil,BRA,South America,South America-Latin America,8358140,19,35,10,,,,,,,6.33,6.376,-0.046,20.1,36.9,43,104.7
-45773884,0.00579,Argentina,ARG,South America,South America-Latin America,2736690,42,46,50,,,,0.842,11.1,20925,5.929,5.975,-0.046,35.7,28,36.4,104.31
-1425671352,-0.00015,China,CHN,Asia,Eastern Asia,9424702.9,1,1,1,,,,0.768,7.6,17504,5.339,5.124,0.215,,,,103.16
-1428627663,0.00808,India,IND,Asia,Southern Asia-South Central Asia,2973190,24,26,,,,,,,,3.819,3.573,0.246,,,,103
-45504560,0.02266,Iraq,IRQ,Asia,Western Asia-The Middle East,434128,,89,97,,,,,,,4.854,4.785,0.069,,,,
-89172767,0.00703,Iran,IRN,Asia,Southern Asia-The Middle East,1622500,8,29,18,,,,0.774,10.6,13001,4.721,4.672,0.049,,,,63.6
-52085168,0.00407,Colombia,COL,South America,South America-Latin America,1109500,75,61,35,,,,,,,6.012,6.163,-0.151,24.6,34.2,41.2,102.02
-277534122,0.00738,Indonesia,IDN,Asia,South-Eastern Asia,1877519,38,33,32,,,,,,,5.345,5.286,0.059,11.9,26,62.1,90.15
-10412651,0.00527,Azerbaijan,AZE,Asia,Western Asia,82646,34,51,65,,,,,,,5.171,5.165,0.006,,,,101.41
-19629590,0.00132,Chile,CHL,South America,South America-Latin America,743532,89,84,95,,,154551,0.855,10.9,24563,6.172,6.228,-0.056,25.2,42.3,32.6,97.27
-7491609,0.00037,Hong Kong,HKG,Asia,Eastern Asia,1050,19,21,28,,,,0.952,12.2,62607,5.477,5.51,-0.033,,,,96.1
-34121985,0.0193,Ghana,GHA,Africa,Western Africa-Sub-Saharan Africa,227533,97,94,93,,,,,,,5.088,5.148,-0.060,,,,
-112716598,0.01556,Egypt,EGY,Africa,Northern Africa-The Middle East,995450,,103,,,,,,,,4.283,4.151,0.132,,,,87.21
-172954319,0.01033,Bangladesh,BGD,Asia,Southern Asia-South Central Asia,130170,57,43,38,,,,,,,5.025,4.833,0.192,,,,64.54
-45606480,0.01566,Algeria,DZA,Africa,Northern Africa,2381741,74,89,100,,,,,,,4.887,5.005,-0.118,,,,
-14094683,0.02308,Rwanda,RWA,Africa,Eastern Africa-Sub-Saharan Africa,24670,87,101,,,,,,,,3.415,3.312,0.103,,,,
-12458223,0.00826,Tunisia,TUN,Africa,Northern Africa,155360,67,56,71,,,,,,,4.596,4.392,0.204,,,,
-12388571,0.01345,Bolivia,BOL,South America,South America-Latin America,1083300,79,77,93,,,,,,,5.716,5.747,-0.031,,,,
-11332972,0.00928,Dominican Republic,DOM,North America,Caribbean,48310,93,,,,,,,,,5.545,5.689,-0.144,,,,
-10593798,0.01543,Honduras,HND,North America,Central America-Latin America,111890,88,92,88,,,,,,,5.919,5.953,-0.034,,,,
-10143543,0.01917,Tajikistan,TJK,Asia,Central Asia-South Central Asia,138790,59,59,74,,,,,,,5.466,5.556,-0.090,,,,
-7046310,0.01409,Nicaragua,NIC,North America,Central America-Latin America,120340,,81,95,,,,,,,5.972,6.137,-0.165,,,,
-6861524,0.01191,Paraguay,PRY,South America,South America-Latin America,397300,78,87,75,,,,,,,5.653,5.692,-0.039,,,,
-6735347,0.01579,Kyrgyzstan,KGZ,Asia,Central Asia-South Central Asia,191800,76,73,76,,,,,,,5.744,5.542,0.202,,,,
-6516100,0.01327,Turkmenistan,TKM,Asia,Central Asia-South Central Asia,469930,,58,85,,,,,,,5.066,5.119,-0.053,,,,
-4862989,0.02678,Mauritania,MRT,Africa,Western Africa-Sub-Saharan Africa,1030700,84,98,,,,,,,,4.227,4.375,-0.148,,,,
-3447157,0.01436,Mongolia,MNG,Asia,Eastern Asia,1557506.8,29,11,29,,,,,,,5.677,5.456,0.221,,,,
-3435931,0.04978,Moldova,MDA,Europe,Eastern Europe,32884.6,47,51,52,,,,,,,5.766,5.608,0.158,,,,
-3210847,-0.00701,Bosnia and Herzegovina,BIH,Europe,Southern Europe,51200,36,40,56,,,,0.780,10.5,15242,5.813,5.674,0.139,,,,
-2832439,-0.00348,Albania,ALB,Europe,Southern Europe,27400,77,94,77,,,,0.796,11.3,14131,5.117,4.883,0.234,,,,
-2777970,-0.0009,Armenia,ARM,Asia,Western Asia,28470,26,37,37,,,,,,,5.283,4.677,0.606,,,,
-2675352,0.01713,Botswana,BWA,Africa,Southern Africa-Sub-Saharan Africa,566730,98,107,100,,,,,,,3.467,3.479,-0.012,,,,
-626485,-0.00095,Montenegro,MNE,Europe,Southern Europe,13450,95,79,73,,,,0.832,12.2,20839,5.581,5.546,0.035,,,,
-23923276,0.00125,Taiwan,TWN,Asia,Eastern Asia,36197,14,9,23,,,,,,,6.584,6.455,0.129,,,,
-21893579,0.00281,SriLanka,LKA,Asia,Southern Asia-South Central Asia,61860,73,81,61,,,,0.782,10.8,12578,4.325,4.327,-0.002,,,,
-6364943,0.00451,ElSalvador,SLV,North America,Central America-Latin America,20720,80,71,68,,,,,,,6.061,6.348,-0.287,,,,
-10495295,0.00013,Czech Republic,CZE,Europe,Eastern Europe,77198.5,52,16,23,83.5,85.9,53795,,,,6.965,6.911,0.054,24.9,69.2,5.9,
+﻿pop2023,growthRate,country,cca3,region,regionNo,subregion,landAreaKm,ranking.22,ranking.21,ranking.20,Education.Foreignborn,Education.Nativeborn,Migration,HDI,Mean_years_of_schooling,GNI,Happiness2021,Happiness2020,Happiness.ScoreChange,Tertiary,UpperSecondary,BelowUpperSecondary,numbeoQoL
+98858950,0.00685,Vietnam,VNM,Asia,1,South-Eastern Asia,313429,4,14,17,,,,,,,5.411,5.353,0.058,,,,88.9
+8796669,0.00643,Switzerland,CHE,Europe,2,Western Europe,39516,40,48,49,84.3,92.3,136962,0.962,13.9,66933,7.571,7.56,0.011,45.3,44,10.7,188.36
+28838499,0.01897,Venezuela,VEN,South America,3,South America-Latin America,882050,104,83,83,,,,,,,4.892,5.053,-0.161,,,,
+5910913,0.00487,Denmark,DNK,Europe,2,Northern Europe,40000,53,67,53,80.1,88.8,37810,0.948,13.0,60365,7.62,7.646,-0.026,39.3,42,18.6,186.25
+144444359,-0.00186,Russia,RUS,Europe,2,Eastern Europe,16376870,,2,2,,,,0.822,12.8,27166,5.477,5.546,-0.069,56.7,38.5,4.8,97.91
+17618299,0.00309,Netherlands,NLD,Europe,2,Western Europe,33670,40,47,29,78.8,90.9,170612,0.941,12.6,55979,7.464,7.449,0.015,42.6,38.4,19,180.27
+35163944,0.01549,Uzbekistan,UZB,Asia,1,Central Asia-South Central Asia,440650,50,61,69,,,,,,,6.179,6.258,-0.079,,,,
+5545475,0.00085,Finland,FIN,Europe,2,Northern Europe,303940,62,69,60,76.1,86.8,23260,0.940,12.9,49452,7.842,7.809,0.033,47.9,43.3,8.8,178.95
+3423108,0.00009,Uruguay,URY,South America,3,South America-Latin America,175020,89,88,80,,,,0.809,9.0,21269,6.431,6.44,-0.009,,,,122.42
+26439111,0.01,Australia,AUS,Oceania,4,Australia and New Zealand,7692020,29,18,8,,,137465,0.951,12.7,49238,7.183,7.223,-0.040,49.3,34.4,16.2,178.41
+339996563,0.00505,United States,USA,North America,0,Northern America,9147420,3,4,3,79.2,83.9,707362,0.921,13.7,64765,6.951,6.94,0.011,50.1,41.7,8.3,163.6
+375318,0.00649,Iceland,ISL,Europe,2,Northern Europe,100830,83,94,92,89.8,91.9,7711,0.959,13.8,55782,7.554,7.504,0.050,40.6,35.3,24.1,177.64
+51784059,-0.00061,South Korea,KOR,Asia,1,Eastern Asia,97600,2,3,4,,,233133,0.925,12.5,44501,5.845,5.872,-0.027,50.7,38.6,10.6,124.73
+8958960,0.00216,Austria,AUT,Europe,2,Western Europe,82520,56,64,65,78.1,89,121311,0.916,12.3,53619,7.268,7.294,-0.026,34.2,51.5,14.3,176.36
+67736802,0.00338,United Kingdom,GBR,Europe,2,Northern Europe,241930,13,9,9,83.1,87.6,,0.929,13.4,45225,7.064,7.165,-0.101,49.4,32.3,18.3,156.94
+83294633,-0.0009,Germany,DEU,Europe,2,Western Europe,349390,7,12,26,80,91.4,994819,0.942,14.1,54534,7.155,7.076,0.079,31.3,54.9,13.9,175.24
+36744634,-0.07448,Ukraine,UKR,Europe,2,Eastern Europe,579400,17,6,11,,,,0.773,11.1,13256,4.875,4.561,0.314,,,,107.8
+5228100,0.00826,New Zealand,NZL,Oceania,4,Australia and New Zealand,263310,58,69,47,,,53716,0.937,12.9,44057,7.277,7.3,-0.023,40.1,40.8,19.1,173.6
+48582334,0.02821,Uganda,UGA,Africa,5,Eastern Africa-Sub-Saharan Africa,200520,100,101,87,,,,,,,4.636,4.432,0.204,,,,
+654768,0.01107,Luxembourg,LUX,Europe,2,Western Europe,2574.5,93,98,103,84.7,87.7,20970,0.930,13.0,84649,7.324,7.238,0.086,51.3,22.8,25.8,171.81
+5474360,0.00737,Norway,NOR,Europe,2,Northern Europe,364285,61,51,58,84.2,90.9,30818,0.961,13.0,64660,7.392,7.488,-0.096,45.3,37.2,17.5,171.72
+85816199,0.00557,Turkey,TUR,Asia,1,Western Asia-The Middle East,783562,26,35,26,,,,0.838,8.6,31033,4.948,5.132,-0.184,22,19.7,58.3,124.19
+1322765,-0.00249,Estonia,EST,Europe,2,Northern Europe,42750,50,50,57,81.2,87.5,10309,0.890,13.5,38048,6.189,6.022,0.167,42.2,48.4,9.3,171.16
+10612086,0.00595,Sweden,SWE,Europe,2,Northern Europe,407283.5,60,57,40,81.2,93.3,65789,0.947,12.6,54489,7.363,7.353,0.010,44.6,39.3,16.1,170.19
+71801279,0.00145,Thailand,THA,Asia,1,South-Eastern Asia,510890,6,16,5,,,,0.800,8.7,17030,5.985,5.999,-0.014,,,,100.3
+2119675,-0.00008,Slovenia,SVN,Europe,2,Southern Europe,20136.4,72,64,40,82.3,90.8,24750,0.918,12.8,39746,6.461,6.363,0.098,35.9,54.4,9.8,165.74
+67438106,0.02963,Tanzania,TZA,Africa,5,Eastern Africa-Sub-Saharan Africa,885800,,,98,,,,,,,3.623,3.476,0.147,,,,
+123294513,-0.0053,Japan,JPN,Asia,1,Eastern Asia,364500,8,25,18,,,220612,0.925,13.4,42274,5.94,5.871,0.069,52.7,,,164.06
+47519628,-0.00082,Spain,ESP,Europe,2,Southern Europe,499556.6,42,63,31,70.8,83.1,415150,0.905,10.6,38354,6.491,6.401,0.090,39.7,23.2,37.1,163.48
+2718352,-0.01153,Lithuania,LTU,Europe,2,Northern Europe,62620,48,76,54,83.7,91.6,,0.875,13.5,37931,6.255,6.215,0.040,44.1,49.5,6.4,160.29
+10247605,-0.00227,Portugal,PRT,Europe,2,Southern Europe,91605.6,44,54,44,82.4,89.6,118124,0.866,9.6,33155,5.929,5.911,0.018,28.2,27.2,44.6,159.83
+38781291,0.0085,Canada,CAN,North America,0,Northern America,8965590,14,5,12,,,184585,0.936,13.8,46808,7.103,7.232,-0.129,60,32.5,7.6,157.25
+4008617,-0.00539,Croatia,HRV,Europe,2,Southern Europe,55960,34,21,32,,,,0.858,12.2,30132,5.882,5.505,0.377,,,,155.41
+60414495,0.00869,South Africa,ZAF,Africa,5,Southern Africa-Sub-Saharan Africa,1213090,63,60,61,,,,,,,4.956,4.814,0.142,15.8,31.8,52.3,131.37
+64756584,0.00201,France,FRA,Europe,2,Western Europe,547557,32,27,14,73.2,87.8,200495,0.903,11.6,45937,6.69,6.664,0.026,39.7,41.8,18.5,153.6
+5795199,0.02689,Slovakia,SVK,Europe,2,Eastern Europe,49035,46,39,40,81,83.9,2834,0.848,12.9,30690,6.331,6.281,0.050,26.8,65.7,7.5,147.09
+5056935,0.00673,Ireland,IRL,Europe,2,Northern Europe,68890,69,93,70,81.6,87.3,56500,0.945,11.6,76169,7.085,7.129,-0.044,49.9,35.5,14.5,150.54
+6014723,0.00653,Singapore,SGP,Asia,1,South-Eastern Asia,718,24,15,16,,,,0.939,11.9,90919,6.377,6.377,0.000,,,,146.48
+11686140,0.00259,Belgium,BEL,Europe,2,Western Europe,30280,63,43,50,75.7,89.2,101553,0.937,12.4,52293,6.834,6.864,-0.030,42.4,37.3,20.2,148.18
+7149077,-0.01001,Serbia,SRB,Europe,2,Southern Europe,87460,37,31,25,,,,0.802,11.4,19123,6.078,5.778,0.300,,,,117
+36947025,0.01478,Saudi Arabia,SAU,Asia,1,Western Asia-The Middle East,2149690,22,38,59,,,,0.875,11.3,46112,6.494,6.406,0.088,23.6,32.9,43.5,144.69
+1830211,-0.01105,Latvia,LVA,Europe,2,Northern Europe,62230,63,48,67,81,89.9,4560,0.863,13.3,32803,6.032,5.95,0.082,37.8,51.6,10.5,146.8
+19892812,0.01188,Romania,ROU,Europe,2,Eastern Europe,230080,5,27,15,,,,0.821,11.3,30027,6.14,6.124,0.016,,,,130.86
+1260138,0.00691,Cyprus,CYP,Europe,2,Eastern Europe-The Middle East,9240,67,77,80,,,,0.896,12.4,38188,6.223,6.159,0.064,,,,146.08
+41026067,0.02933,Poland,POL,Europe,2,Eastern Europe,306130,12,13,6,81.1,89,163512,0.876,13.2,33034,6.166,6.186,-0.020,32.4,60.4,6.8,127.79
+9174520,0.01507,Israel,ISR,Asia,1,Western Asia-The Middle East,21640,10,7,21,85.5,88.5,19676,0.919,13.3,41524,7.157,7.129,0.028,50.1,37.9,12,143.65
+117337368,0.01539,Philippines,PHL,Asia,1,South-Eastern Asia,298170,53,23,43,,,,,,,5.88,6.006,-0.126,,,,78.12
+58870762,-0.00282,Italy,ITA,Europe,2,Southern Europe,295717,10,7,6,70.2,82.7,191766,0.895,10.7,42840,6.483,6.387,0.096,20.1,42.7,37.1,137.77
+34352719,0.0089,Peru,PER,South America,3,South America-Latin America,1280000,19,30,36,,,,,,,5.84,5.797,0.043,,,,81.29
+10156239,0.01896,Hungary,HUN,Europe,2,Eastern Europe,91260,32,32,13,87.2,85.7,43785,0.846,12.2,32789,5.992,6,-0.008,27.2,58.4,14.4,134.54
+4468087,0.0135,Panama,PAN,North America,0,Central America-Latin America,74180,84,72,84,,,,0.805,10.5,26957,6.18,6.305,-0.125,,,,111.13
+240485658,0.01976,Pakistan,PAK,Asia,1,Southern Asia-South Central Asia,770880,82,103,82,,,,,,,4.934,5.693,-0.759,,,,102.15
+2085679,-0.00378,North Macedonia,MKD,Europe,2,Southern Europe,25220,39,45,72,,,,0.770,10.2,15918,5.101,5.16,-0.059,,,,108.25
+223804632,0.02408,Nigeria,NGA,Africa,5,Western Africa-Sub-Saharan Africa,910770,,100,86,,,,,,,4.759,4.724,0.035,,,,54.71
+6687717,-0.0139,Bulgaria,BGR,Europe,2,Eastern Europe,108560,16,18,38,,,,0.795,11.4,23079,5.266,5.102,0.164,,,,126.88
+30896590,0.01143,Nepal,NPL,Asia,1,Southern Asia-South Central Asia,143350,89,91,102,,,,,,,5.269,5.137,0.132,,,,
+54577997,0.00736,Myanmar,MMR,Asia,1,South-Eastern Asia,652670,,,91,,,,,,,4.426,4.308,0.118,,,,
+37840044,0.0102,Morocco,MAR,Africa,5,Northern Africa,446300,70,75,90,,,,,,,4.918,5.095,-0.177,,,,105.04
+5212173,0.00605,Costa Rica,CRI,North America,0,Central America-Latin America,51060,66,84,88,,,,0.809,8.8,19974,7.069,7.121,-0.052,25.1,17.6,57.3,120.42
+128455567,0.00746,Mexico,MEX,North America,0,Central America-Latin America,1943950,23,34,45,71.3,79.8,58430,,,,6.317,6.465,-0.148,19.4,22.2,58.4,119.82
+3728282,-0.0043,Georgia,GEO,Asia,1,Western Asia,69490,53,41,18,,,,0.802,12.8,14664,4.891,4.673,0.218,,,,116.62
+18190484,0.01053,Ecuador,ECU,South America,3,South America-Latin America,248360,89,73,64,,,,,,,5.764,5.925,-0.161,,,,116.27
+34308525,0.01091,Malaysia,MYS,Asia,1,South-Eastern Asia,328550,44,41,32,,,,0.803,10.6,26658,5.384,5.384,0.000,,,,115.02
+55100586,0.01986,Kenya,KEN,Africa,5,Eastern Africa-Sub-Saharan Africa,569140,,103,104,,,,,,,4.607,4.583,0.024,,,,76.92
+9498238,-0.00385,Belarus,BLR,Europe,2,Eastern Europe,202980,31,24,45,,,,0.808,12.1,18849,5.534,5.54,-0.006,,,,107.15
+19606633,0.01076,Kazakhstan,KAZ,Asia,1,Central Asia,2699700,17,20,21,,,,0.811,12.3,23943,6.152,6.058,0.094,,,,94.25
+216422446,0.00515,Brazil,BRA,South America,3,South America-Latin America,8358140,19,35,10,,,,,,,6.33,6.376,-0.046,20.1,36.9,43,104.7
+45773884,0.00579,Argentina,ARG,South America,3,South America-Latin America,2736690,42,46,50,,,,0.842,11.1,20925,5.929,5.975,-0.046,35.7,28,36.4,104.31
+1425671352,-0.00015,China,CHN,Asia,1,Eastern Asia,9424702.9,1,1,1,,,,0.768,7.6,17504,5.339,5.124,0.215,,,,103.16
+1428627663,0.00808,India,IND,Asia,1,Southern Asia-South Central Asia,2973190,24,26,,,,,,,,3.819,3.573,0.246,,,,103
+45504560,0.02266,Iraq,IRQ,Asia,1,Western Asia-The Middle East,434128,,89,97,,,,,,,4.854,4.785,0.069,,,,
+89172767,0.00703,Iran,IRN,Asia,1,Southern Asia-The Middle East,1622500,8,29,18,,,,0.774,10.6,13001,4.721,4.672,0.049,,,,63.6
+52085168,0.00407,Colombia,COL,South America,3,South America-Latin America,1109500,75,61,35,,,,,,,6.012,6.163,-0.151,24.6,34.2,41.2,102.02
+277534122,0.00738,Indonesia,IDN,Asia,1,South-Eastern Asia,1877519,38,33,32,,,,,,,5.345,5.286,0.059,11.9,26,62.1,90.15
+10412651,0.00527,Azerbaijan,AZE,Asia,1,Western Asia,82646,34,51,65,,,,,,,5.171,5.165,0.006,,,,101.41
+19629590,0.00132,Chile,CHL,South America,3,South America-Latin America,743532,89,84,95,,,154551,0.855,10.9,24563,6.172,6.228,-0.056,25.2,42.3,32.6,97.27
+7491609,0.00037,Hong Kong,HKG,Asia,1,Eastern Asia,1050,19,21,28,,,,0.952,12.2,62607,5.477,5.51,-0.033,,,,96.1
+34121985,0.0193,Ghana,GHA,Africa,5,Western Africa-Sub-Saharan Africa,227533,97,94,93,,,,,,,5.088,5.148,-0.060,,,,
+112716598,0.01556,Egypt,EGY,Africa,5,Northern Africa-The Middle East,995450,,103,,,,,,,,4.283,4.151,0.132,,,,87.21
+172954319,0.01033,Bangladesh,BGD,Asia,1,Southern Asia-South Central Asia,130170,57,43,38,,,,,,,5.025,4.833,0.192,,,,64.54
+45606480,0.01566,Algeria,DZA,Africa,5,Northern Africa,2381741,74,89,100,,,,,,,4.887,5.005,-0.118,,,,
+14094683,0.02308,Rwanda,RWA,Africa,5,Eastern Africa-Sub-Saharan Africa,24670,87,101,,,,,,,,3.415,3.312,0.103,,,,
+12458223,0.00826,Tunisia,TUN,Africa,5,Northern Africa,155360,67,56,71,,,,,,,4.596,4.392,0.204,,,,
+12388571,0.01345,Bolivia,BOL,South America,3,South America-Latin America,1083300,79,77,93,,,,,,,5.716,5.747,-0.031,,,,
+11332972,0.00928,Dominican Republic,DOM,North America,0,Caribbean,48310,93,,,,,,,,,5.545,5.689,-0.144,,,,
+10593798,0.01543,Honduras,HND,North America,0,Central America-Latin America,111890,88,92,88,,,,,,,5.919,5.953,-0.034,,,,
+10143543,0.01917,Tajikistan,TJK,Asia,1,Central Asia-South Central Asia,138790,59,59,74,,,,,,,5.466,5.556,-0.090,,,,
+7046310,0.01409,Nicaragua,NIC,North America,0,Central America-Latin America,120340,,81,95,,,,,,,5.972,6.137,-0.165,,,,
+6861524,0.01191,Paraguay,PRY,South America,3,South America-Latin America,397300,78,87,75,,,,,,,5.653,5.692,-0.039,,,,
+6735347,0.01579,Kyrgyzstan,KGZ,Asia,1,Central Asia-South Central Asia,191800,76,73,76,,,,,,,5.744,5.542,0.202,,,,
+6516100,0.01327,Turkmenistan,TKM,Asia,1,Central Asia-South Central Asia,469930,,58,85,,,,,,,5.066,5.119,-0.053,,,,
+4862989,0.02678,Mauritania,MRT,Africa,5,Western Africa-Sub-Saharan Africa,1030700,84,98,,,,,,,,4.227,4.375,-0.148,,,,
+3447157,0.01436,Mongolia,MNG,Asia,1,Eastern Asia,1557506.8,29,11,29,,,,,,,5.677,5.456,0.221,,,,
+3435931,0.04978,Moldova,MDA,Europe,2,Eastern Europe,32884.6,47,51,52,,,,,,,5.766,5.608,0.158,,,,
+3210847,-0.00701,Bosnia and Herzegovina,BIH,Europe,2,Southern Europe,51200,36,40,56,,,,0.780,10.5,15242,5.813,5.674,0.139,,,,
+2832439,-0.00348,Albania,ALB,Europe,2,Southern Europe,27400,77,94,77,,,,0.796,11.3,14131,5.117,4.883,0.234,,,,
+2777970,-0.0009,Armenia,ARM,Asia,1,Western Asia,28470,26,37,37,,,,,,,5.283,4.677,0.606,,,,
+2675352,0.01713,Botswana,BWA,Africa,5,Southern Africa-Sub-Saharan Africa,566730,98,107,100,,,,,,,3.467,3.479,-0.012,,,,
+626485,-0.00095,Montenegro,MNE,Europe,2,Southern Europe,13450,95,79,73,,,,0.832,12.2,20839,5.581,5.546,0.035,,,,
+23923276,0.00125,Taiwan,TWN,Asia,1,Eastern Asia,36197,14,9,23,,,,,,,6.584,6.455,0.129,,,,
+21893579,0.00281,SriLanka,LKA,Asia,1,Southern Asia-South Central Asia,61860,73,81,61,,,,0.782,10.8,12578,4.325,4.327,-0.002,,,,
+6364943,0.00451,ElSalvador,SLV,North America,0,Central America-Latin America,20720,80,71,68,,,,,,,6.061,6.348,-0.287,,,,
+10495295,0.00013,Czech Republic,CZE,Europe,2,Eastern Europe,77198.5,52,16,23,83.5,85.9,53795,,,,6.965,6.911,0.054,24.9,69.2,5.9,
