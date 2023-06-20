@@ -9,8 +9,6 @@ library(corrplot)
 library(stats)
 library(MASS)
 library(leaps)
-library(rworldmap)
-library(rworldxtra)
 
 #Wczytanie zbioru danych
 data <- read.csv("Dylag1.csv")
@@ -58,7 +56,7 @@ barplot(vif_data, main = "Variance Inflation Factors",
 corr_df <- as.data.frame(as.table(corr_matrix))
 ggplot(corr_df, aes(Var1, Var2, fill = Freq)) +
   geom_tile() +
-  scale_fill_gradient2(low = "goldenrod2", mid = "white", high = "hotpink2", 
+  scale_fill_gradient2(low = "goldenrod2", mid = "white", high = "green4", 
                        midpoint = 0, limits = c(-1, 1)) +
   labs(title = "Heatmap of Correlation Matrix", 
        x = "Variables", 
@@ -115,12 +113,6 @@ text(x=1:length(leverage), y=leverage, labels=ifelse(leverage>treshold, names(le
 plot(model,4)
 
 ##Badanie nowego modelu
-map <- getMap()
-map$color <- NA
-kraje_do_pokolorowania <- data$country
-map$color[map$NAME %in% kraje_do_pokolorowania] <- "hotpink2"
-par(mar=c(0,0,0,0))
-plot(map, col=map$color, bg="white", border="black", lwd=0.5)
 
 model1a <- lm(ranking2021 ~ pop2023 + growthRate + landArea +
                 education + gni + qol + happiness + crime + iq +
@@ -154,7 +146,7 @@ barplot(vif_data, main = "Variance Inflation Factors",
 corr_df <- as.data.frame(as.table(corr_matrix)) #pozostaje silna korelacja zmiennych happiness i qol
 ggplot(corr_df, aes(Var1, Var2, fill = Freq)) +
   geom_tile() +
-  scale_fill_gradient2(low = "goldenrod2", mid = "white", high = "hotpink2", 
+  scale_fill_gradient2(low = "goldenrod2", mid = "white", high = "green4", 
                        midpoint = 0, limits = c(-1, 1)) +
   labs(title = "Heatmap of Correlation Matrix", 
        x = "Variables", 
@@ -346,7 +338,6 @@ text(x=1:length(leverage), y=leverage, labels=ifelse(leverage>treshold, names(le
 #wykres cooka
 plot(model1e,4)
 
-
 selected_data <- dplyr::select(data2, pop2023, growthRate, education, qol, crime, iq)
 corr_matrix <- cor(selected_data)
 eigen_values <- eigen(corr_matrix)$values
@@ -358,7 +349,7 @@ barplot(vif_data, main = "Variance Inflation Factors",
 corr_df <- as.data.frame(as.table(corr_matrix))
 ggplot(corr_df, aes(Var1, Var2, fill = Freq)) +
   geom_tile() +
-  scale_fill_gradient2(low = "goldenrod2", mid = "white", high = "hotpink2", 
+  scale_fill_gradient2(low = "goldenrod2", mid = "white", high = "green4", 
                        midpoint = 0, limits = c(-1, 1)) +
   labs(title = "Heatmap of Correlation Matrix", 
        x = "Variables", 
@@ -367,8 +358,6 @@ ggplot(corr_df, aes(Var1, Var2, fill = Freq)) +
   geom_text(aes(label = round(Freq, 2)), 
             data = subset(corr_df, abs(Freq) > 0.65),
             size = 3, color = "black", fontface = "bold")
-summary(data2$qol)
-plot(data2$qol + I(data2$qol^2))
 
 #walidacja krzyżowa
 X <- model.matrix(model)
